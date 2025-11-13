@@ -1,0 +1,8 @@
+// config/cube.json
+{
+  "faces": ["N","S","E","W","U","D"],
+  "routing": {
+    "center": "tradepoint",
+    "reflect": true
+  }
+}
